@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Khushiji22")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Oyy_Anonymous")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "KHUSIGUPTAA_ROBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ShizuXMusic_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "KHUSHI")
 # ---------------------------------------------------------
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+B1UHue_TbnAxZGNl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+B1UHue_TbnAxZGNl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Shizu_Updates")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Shizu_Updates")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
